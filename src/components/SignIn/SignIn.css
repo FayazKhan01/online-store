@@ -1,0 +1,38 @@
+.signIn-sect{
+    padding: 10px 0px;
+}
+
+.signIn-main{
+    width: 600px;
+    margin: auto;
+    padding: 20px 0px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid green;
+}
+
+.signIn-main h1{
+    text-align: center;
+    color: green;
+    margin-bottom: 0px;
+}
+
+.signIn-main h6{
+    text-align: center;
+    margin-bottom: 40px;
+    color: blue;
+}
+
+.signIn-main p{
+    margin: 10px 0px 0px 0px;
+    color: blue;
+}
+
+.email-input{
+    margin-bottom: 10px;
+}
+
+.pass-input{
+    margin-bottom: 20px;
+}

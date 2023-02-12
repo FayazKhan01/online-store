@@ -1,0 +1,40 @@
+.signUp-sect{
+    padding: 10px 0px;
+}
+
+.signUp-main{
+    width: 600px;
+    margin: auto;
+    padding: 20px 0px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid green;
+}
+
+.signUp-main h1{
+    text-align: center;
+    color: green;
+    margin-bottom: 0px;
+}
+
+.signUp-main h6{
+    text-align: center;
+    margin-bottom: 40px;
+    color: blue;
+}
+
+.signUp-main p{
+    margin: 10px 0px 0px 0px;
+    color: blue;
+}
+
+
+
+.name-input, .phone-input, .email-input{
+    margin-bottom: 10px;
+}
+
+.pass-input{
+    margin-bottom: 20px;
+}

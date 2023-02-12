@@ -1,0 +1,19 @@
+.account-sect{
+    padding: 10px 0px;
+}
+
+.account-main{
+    width: 600px;
+    margin: auto;
+    padding: 20px 0px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid green;
+}
+
+.account-main h1{
+    text-align: center;
+    color: green;
+    margin-bottom: 0px;
+}
